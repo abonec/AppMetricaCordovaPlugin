@@ -72,6 +72,8 @@
         <header-file src="platform/ios/YandexMobileMetrica.h" target="YandexMobileMetrica.h"/>
 		<header-file src="platform/ios/YMMVersion.h" target="YMMVersion.h"/>
 		<header-file src="platform/ios/YMMYandexMetrica.h" target="YMMYandexMetrica.h"/>
+		<header-file src="platform/ios/YMMYandexMetricaConfiguration.h" target="YMMYandexMetricaConfiguration.h"/>
+		<header-file src="platform/ios/YMMYandexMetricaPreloadInfo.h" target="YMMYandexMetricaPreloadInfo.h"/>
 		
         <source-file src="platform/ios/AppMetricaPlugin.m" />
 

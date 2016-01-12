@@ -9,5 +9,7 @@
  * You may obtain a copy of the License at http://legal.yandex.com/metrica_termsofuse/
  */
 
-#import "YMMYandexMetrica.h"
-#import "YMMVersion.h"
+#import <YMMYandexMetrica.h>
+#import <YMMVersion.h>
+#import <YMMYandexMetricaConfiguration.h>
+#import <YMMYandexMetricaPreloadInfo.h>
